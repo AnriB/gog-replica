@@ -12,12 +12,12 @@ body {
   padding-right: 0;
 }
 
-.navtop {
-  color: #bab8b8 !important;
-}
-
 .nav-link {
   color: #252323 !important;
+}
+
+.navtop {
+  color: #bab8b8 !important;
 }
 
 .img-navbar {
