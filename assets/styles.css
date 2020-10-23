@@ -1,5 +1,27 @@
+body {
+  background-color: #c1bdbd;
+}
 .navbar {
   font-family: "Lato", sans-serif;
-  font-size: 14px;
-  font-weight: 600;
+  font-weight: 500;
+  background-color: #252323;
+}
+
+#navtop {
+  padding-left: 0;
+  padding-right: 0;
+}
+
+.nav-link {
+  color: #bab8b8 !important;
+}
+
+.img-navbar {
+  height: 30px;
+  width: 30px;
+}
+
+#highlights {
+  border-style: solid;
+  border-bottom: #252323;
 }
